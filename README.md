@@ -2,7 +2,7 @@
 
 [![Elvis Gastelum](https://img.shields.io/badge/Elvis_Gastelum-Web-Red)](https://portfolio.elvisgastelum.com/)
 
-- 👯 I’m looking to collaborate on open source projects and remote work
+- 👯 I’m looking to collaborate on open source projects and remote work ⚛️
 - 📫 How to reach me: [Click me](https://portfolio.elvisgastelum.com/#contact)
 
 <!--
